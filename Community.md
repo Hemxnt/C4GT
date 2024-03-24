@@ -19,6 +19,25 @@
   </tr>
 </table>
 <table>
+  <tr>
+    <td>Name</td>
+    <td>Hemant Singh </td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Hemxnt</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/hemant2104/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Guru Gobind Singh Indraprastha University, Delhi</td>
+  </tr>
+</table>
+
+<table>
       <tr>
         <td>Name</td>
         <td>Arnav Goel</td>
